@@ -1,0 +1,23 @@
+#main{
+	/* position: fixed; */
+	z-index: 2;
+	opacity: .81;
+}
+
+nav{
+	opacity: .9;
+}
+
+footer{
+	opacity: .9;
+}
+
+footer img{
+	width: 1.3em;
+	margin-bottom: .2em;
+}
+
+footer a img{
+	width: 1.4em;
+}
+
